@@ -1,0 +1,80 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SimplonNorm-Medium
+FamilyName:Simplon Norm
+StyleName:Medium
+MenuName:Simplon Norm Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Simplon Norm Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/Studio/Fluvius/2018-1238 Brochures omzetten/1 Handleiding budgetmeter aardgas_OK/2018-1238 Fluvius brochure budgetmeter elektriciteit Folder/Document fonts/SimplonNorm-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49000
+FileModTime:570624057
+NameArray:0,Mac,4,Simplon Norm Medium
+NameArray:0,Win,1,Simplon Norm Medium
+NameArray:0,Win,16,Simplon Norm
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SimplonNorm
+FamilyName:Simplon Norm
+StyleName:Regular
+MenuName:Simplon Norm
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Simplon Norm
+WritingScript:Roman
+OutlineFileName:/Volumes/Studio/Fluvius/2018-1238 Brochures omzetten/1 Handleiding budgetmeter aardgas_OK/2018-1238 Fluvius brochure budgetmeter elektriciteit Folder/Document fonts/SimplonNorm.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49696
+FileModTime:570624057
+NameArray:0,Mac,4,Simplon Norm
+NameArray:0,Win,1,Simplon Norm
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SimplonNorm-Bold
+FamilyName:Simplon Norm
+StyleName:Bold
+MenuName:Simplon Norm Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Simplon Norm Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/Studio/Fluvius/2018-1238 Brochures omzetten/1 Handleiding budgetmeter aardgas_OK/2018-1238 Fluvius brochure budgetmeter elektriciteit Folder/Document fonts/SimplonNorm-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50220
+FileModTime:570624057
+NameArray:0,Mac,4,Simplon Norm Bold
+NameArray:0,Win,1,Simplon Norm Bold
+NameArray:0,Win,16,Simplon Norm
+%EndFont
+
